@@ -1,0 +1,92 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta http-equiv="refresh" content="900">
+	<meta charset="utf-8">
+	<title>CEC Wallboard</title>
+	<link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body bgcolor="#2b3e50">
+
+<img src="http://drive.google.com/uc?export=view&id=1LfoczEria_ZOr-V7lOd1UDCN2GkL9fls"
+	style='position: fixed; 
+	top: 126px; 
+	left: 93px; 
+	width="300"; 
+	height="160";'>
+</img>
+
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 341px;'>
+<b>
+
+</b>
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 410px;'>
+
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 470px;'>
+
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 530px;'>
+
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 590px;'>
+
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 650px;'>
+
+<p>
+<font size="14" face="Arial Regular" color="White" style='position: fixed; left: 93px; top: 710px;'>
+
+</font>
+</p>
+
+	<center>
+	<iframe src="http://lhr049gwp044/iwp/marquee/p/CEC1/" 
+	frameBorder="0";
+	style='position: fixed;
+	width: 1750px; 
+	height: 1000px; 
+	transform: scale(1);
+	right: -271px;
+	top: 0;
+	scrolling="no"
+	align="center'">
+<p>
+This browser is not compatible for iframes
+</p>
+	</iframe>
+	</center>
+
+<iframe src="http://free.timeanddate.com/clock/i6r5ffre/n136/tluk/fs48/fcfff/tc2b3e50/pc2b3e50/ahl/tt1/tw0" frameborder="0" style='position: fixed;
+	width: 400px; 
+	height: 56px; 
+	transform: scale(1);
+	left: 93px;
+	top: 785px;
+	scrolling="no"'>
+</iframe>
+
+<iframe src="http://free.timeanddate.com/clock/i6r5ffre/n136/tluk/fs60/fcfff/tc2b3e50/pc2b3e50/ahl/ts1" frameborder="0" style='position: fixed;
+	width: 300px; 
+	height: 62px; 
+	transform: scale(1);
+	left: 93px;
+	top: 857px;
+	scrolling="no"'>
+</iframe>
+
+<marquee behavior="scroll" scrollamount="12" style='position: fixed; position: fixed; bottom: 50px;'>
+<font size="+18" face="Arial Regular" color="White">
+<b>
+Additional Hours are available for the next few weeks if anyone wishes to request them.
+</b>
+</font>
+</marquee>
+
+</body>
+</html>
